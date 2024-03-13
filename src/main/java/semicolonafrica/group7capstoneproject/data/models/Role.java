@@ -1,2 +1,6 @@
-package semicolonafrica.group7capstoneproject.data.models;public enum Role {
+package semicolonafrica.group7capstoneproject.data.models;
+
+public enum Role {
+    ROLE_USER,
+    ROLE_ADMIN
 }
